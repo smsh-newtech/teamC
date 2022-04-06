@@ -1,2 +1,2 @@
-# maincode
-https://smsh-newtech.github.io/maincode/
+# Team C
+https://smsh-newtech.github.io/teamC/
